@@ -1,4 +1,4 @@
-# Hi!, I'm Lenon!
+# Hi, I'm Lenon!
 
 I am a student and passionate about technology, and welcome to my Github Profile! Here you will find some of my personal projects that help me to improve my developing skills and learn a lot about programming. Feel free to browse the repos.
 Today, my main stack is focused in Javascript, with React in front-end and NodeJs with Express in the back-end. In the college I was able to learn developing with Java, and a lot of more incredible stuff, like algorithms and programming paradigms.
