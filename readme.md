@@ -14,7 +14,7 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
 ## Social and Contact
 
  <div>
-  <a href ="mailto:lenon.diedrich@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+  <a href ="mailto:lenon.diedrich@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30em"></a>
   <a href="www.linkedin.com/in/lenon-diedrich-da-silva-b1a6291b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="www.instagram.com/lenondiedrich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  </div>
