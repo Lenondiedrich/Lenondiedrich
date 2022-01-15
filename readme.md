@@ -48,3 +48,6 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lenondiedrich&layout=compact&langs_count=8&hide_border=true" />
  </div>
  
+ ## Now playing
+ [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/dielenon)
+ 
