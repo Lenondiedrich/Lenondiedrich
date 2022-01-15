@@ -13,20 +13,14 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
 
 ## Social and Contact
 
- <a href="https://www.linkedin.com/in/aakash9868sinha/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+ <a href="https://www.linkedin.com/in/lenon-diedrich-da-silva-b1a6291b8/">
+  <img align="left" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
 </a>
-<a href="https://twitter.com/isupersky">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://instagram.com/lenondiedrich">
+  <img align="left" width="26px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
 </a>
 <a href="mailto:mailtomeaakash@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://isupersky.medium.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
 ## Technologies
