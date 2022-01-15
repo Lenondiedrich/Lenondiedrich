@@ -12,7 +12,7 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
 - Nature lover 🌳🍃
 
 ## Social and Contact
-
+<div>
  <a href="https://www.linkedin.com/in/lenon-diedrich-da-silva-b1a6291b8/">
   <img align="left" width="28px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
 </a>
@@ -22,6 +22,7 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
 <a href="mailto:mailtomeaakash@gmail.com">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
+ </div>
 
 ## Technologies
 
