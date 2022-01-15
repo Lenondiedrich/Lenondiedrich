@@ -25,6 +25,7 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
  </div>
 
 <br />
+
 ## Technologies
 
 <div style="display: inline_block"><br>
