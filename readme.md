@@ -17,7 +17,7 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
    <img align="left" width="28px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
   </a>
   <a href="https://instagram.com/lenondiedrich">
-   <img align="left" width="60px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
+   <img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
   </a>
   <a href="mailto:mailtomeaakash@gmail.com">
    <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
