@@ -12,7 +12,7 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
 - Nature lover 🌳🍃
 
 ## Social and Contact
-<div>
+<div display="display: inline_block">
   <a href="https://www.linkedin.com/in/lenon-diedrich-da-silva-b1a6291b8/">
    <img align="left" width="28px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
   </a>
