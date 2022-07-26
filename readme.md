@@ -9,7 +9,6 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
 - Love to play my acoustic guitar 🎸
 - Comic reader and collector 🦸
 - Daring traveler 🌎
-- Nature lover 🌳🍃
 
 ## Social and Contact
 <div display="display: inline_block">
