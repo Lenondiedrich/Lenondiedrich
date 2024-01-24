@@ -8,7 +8,6 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
 - Big Tolkien fan 🧙
 - Love to play my acoustic guitar 🎸
 - Comic reader and collector 🦸
-- Daring traveler 🌎
 
 ## Social and Contact
 <div display="display: inline_block">
