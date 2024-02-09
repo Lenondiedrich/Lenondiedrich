@@ -28,7 +28,7 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Nextjs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs, tailwind, react, git, spring, java, sass, css, html, js, ts, nodejs," />
+  <img align="center" alt="Nextjs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs,tailwind,react,git,spring,java,sass,css,html,js,ts,nodejs" />
  </div>
  
  ## Github Stats
