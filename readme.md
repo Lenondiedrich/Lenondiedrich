@@ -26,7 +26,7 @@ Today, my main stack is focused in Javascript, with React in front-end and NodeJ
 
 ## Technologies
 
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,react,git,spring,java,sass,css,html,js,ts,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,git,java,spring,html,css,js,ts,nodejs,nestjs,express,graphql,jest,prisma,sequelize,sass,styledcomponents,tailwind)](https://skillicons.dev)
  
  ## Github Stats
  
